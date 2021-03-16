@@ -13,6 +13,7 @@ returns to the starting location.
 - Identify the shortest route that starts from one location (source) and arrives at another location (destination).
 It will try to use the same algorithm for both requirements, but parameterized accordingly.
 
+Resolve using a genetic algorithm
 
 ## *Romanian* 
 Problemă: Un project manager trebuie să ajungă la o discuție cu un potențial client. Agenda lui
@@ -26,6 +27,7 @@ revine în locația de start.
 - Să se identifice cel mai scurt traseu care pleacă dintr-o locație (sursă) și ajunge într-o
 altă locație (destinație).
 Se va încerca folosirea aceluiași algoritm pentru ambele cerințe, dar parametrizat corespunzător.
+Rezolvati folosind un algoritm genetic
 
 ##Results 
 
